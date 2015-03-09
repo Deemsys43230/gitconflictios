@@ -1,0 +1,2 @@
+# gitconflictios
+conflict check ios
