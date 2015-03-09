@@ -53,6 +53,7 @@
 		78D96E221AADAD3500DF70E7 /* gitconflictTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "gitconflictTests-Info.plist"; sourceTree = "<group>"; };
 		78D96E241AADAD3500DF70E7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		78D96E261AADAD3500DF70E7 /* gitconflictTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gitconflictTests.m; sourceTree = "<group>"; };
+		847C4F5F1AADB9FE0051CC79 /* PCScreenShotsEHR.pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = PCScreenShotsEHR.pptx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +115,7 @@
 			children = (
 				78D96E0A1AADAD3500DF70E7 /* deemsysAppDelegate.h */,
 				78D96E0B1AADAD3500DF70E7 /* deemsysAppDelegate.m */,
+				847C4F5F1AADB9FE0051CC79 /* PCScreenShotsEHR.pptx */,
 				78D96E0D1AADAD3500DF70E7 /* Main.storyboard */,
 				78D96E101AADAD3500DF70E7 /* deemsysViewController.h */,
 				78D96E111AADAD3500DF70E7 /* deemsysViewController.m */,
@@ -459,6 +461,7 @@
 				78D96E2C1AADAD3500DF70E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		78D96E2D1AADAD3500DF70E7 /* Build configuration list for PBXNativeTarget "gitconflictTests" */ = {
 			isa = XCConfigurationList;
@@ -467,6 +470,7 @@
 				78D96E2F1AADAD3500DF70E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
