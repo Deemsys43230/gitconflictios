@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		78D9457A1AADB9D500C7C18C /* closepopup.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 78D945791AADB9D500C7C18C /* closepopup.jpg */; };
+		78D9457E1AADBAE800C7C18C /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 78D9457B1AADBAE800C7C18C /* Default-Portrait~ipad.png */; };
+		78D9457F1AADBAE800C7C18C /* Default-Portrait~ipadx2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 78D9457C1AADBAE800C7C18C /* Default-Portrait~ipadx2x.png */; };
+		78D945801AADBAE800C7C18C /* doctoricon.png in Resources */ = {isa = PBXBuildFile; fileRef = 78D9457D1AADBAE800C7C18C /* doctoricon.png */; };
 		78D96DFC1AADAD3500DF70E7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78D96DFB1AADAD3500DF70E7 /* Foundation.framework */; };
 		78D96DFE1AADAD3500DF70E7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78D96DFD1AADAD3500DF70E7 /* CoreGraphics.framework */; };
 		78D96E001AADAD3500DF70E7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78D96DFF1AADAD3500DF70E7 /* UIKit.framework */; };
@@ -36,6 +39,9 @@
 
 /* Begin PBXFileReference section */
 		78D945791AADB9D500C7C18C /* closepopup.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = closepopup.jpg; sourceTree = "<group>"; };
+		78D9457B1AADBAE800C7C18C /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait~ipad.png"; sourceTree = "<group>"; };
+		78D9457C1AADBAE800C7C18C /* Default-Portrait~ipadx2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait~ipadx2x.png"; sourceTree = "<group>"; };
+		78D9457D1AADBAE800C7C18C /* doctoricon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doctoricon.png; sourceTree = "<group>"; };
 		78D96DF81AADAD3500DF70E7 /* gitconflict.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitconflict.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78D96DFB1AADAD3500DF70E7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		78D96DFD1AADAD3500DF70E7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -118,6 +124,9 @@
 				78D96E0A1AADAD3500DF70E7 /* deemsysAppDelegate.h */,
 				78D945791AADB9D500C7C18C /* closepopup.jpg */,
 				78D96E0B1AADAD3500DF70E7 /* deemsysAppDelegate.m */,
+				78D9457B1AADBAE800C7C18C /* Default-Portrait~ipad.png */,
+				78D9457C1AADBAE800C7C18C /* Default-Portrait~ipadx2x.png */,
+				78D9457D1AADBAE800C7C18C /* doctoricon.png */,
 				847C4F5F1AADB9FE0051CC79 /* PCScreenShotsEHR.pptx */,
 				78D96E0D1AADAD3500DF70E7 /* Main.storyboard */,
 				78D96E101AADAD3500DF70E7 /* deemsysViewController.h */,
@@ -234,8 +243,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78D945801AADBAE800C7C18C /* doctoricon.png in Resources */,
 				78D96E141AADAD3500DF70E7 /* Images.xcassets in Resources */,
 				78D96E061AADAD3500DF70E7 /* InfoPlist.strings in Resources */,
+				78D9457F1AADBAE800C7C18C /* Default-Portrait~ipadx2x.png in Resources */,
+				78D9457E1AADBAE800C7C18C /* Default-Portrait~ipad.png in Resources */,
 				78D96E0F1AADAD3500DF70E7 /* Main.storyboard in Resources */,
 				78D9457A1AADB9D500C7C18C /* closepopup.jpg in Resources */,
 			);
