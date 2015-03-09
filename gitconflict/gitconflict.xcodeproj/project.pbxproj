@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		78D9457A1AADB9D500C7C18C /* closepopup.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 78D945791AADB9D500C7C18C /* closepopup.jpg */; };
 		78D96DFC1AADAD3500DF70E7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78D96DFB1AADAD3500DF70E7 /* Foundation.framework */; };
 		78D96DFE1AADAD3500DF70E7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78D96DFD1AADAD3500DF70E7 /* CoreGraphics.framework */; };
 		78D96E001AADAD3500DF70E7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 78D96DFF1AADAD3500DF70E7 /* UIKit.framework */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		78D945791AADB9D500C7C18C /* closepopup.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = closepopup.jpg; sourceTree = "<group>"; };
 		78D96DF81AADAD3500DF70E7 /* gitconflict.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gitconflict.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		78D96DFB1AADAD3500DF70E7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		78D96DFD1AADAD3500DF70E7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				78D96E0A1AADAD3500DF70E7 /* deemsysAppDelegate.h */,
+				78D945791AADB9D500C7C18C /* closepopup.jpg */,
 				78D96E0B1AADAD3500DF70E7 /* deemsysAppDelegate.m */,
 				847C4F5F1AADB9FE0051CC79 /* PCScreenShotsEHR.pptx */,
 				78D96E0D1AADAD3500DF70E7 /* Main.storyboard */,
@@ -234,6 +237,7 @@
 				78D96E141AADAD3500DF70E7 /* Images.xcassets in Resources */,
 				78D96E061AADAD3500DF70E7 /* InfoPlist.strings in Resources */,
 				78D96E0F1AADAD3500DF70E7 /* Main.storyboard in Resources */,
+				78D9457A1AADB9D500C7C18C /* closepopup.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
